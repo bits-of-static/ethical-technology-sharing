@@ -1,9 +1,9 @@
-#Workforce of Ethical Access to Tools and Technology (de/en)
+# Workforce of Ethical Access to Tools and Technology (de/en)
 
 Fr 18:00-19:15, Universitätsbibliothek Leipzig  
 [meetup](https://www.meetup.com/Workforce-of-Ethical-Access-to-Tools-and-Technology/)
 
-##english
+## english
 
 Not many can afford closed source & payed tools, some of extreme quality and value.
 
@@ -11,7 +11,7 @@ Open-source & free tools are nice, but ethically questionable, since anyone can 
 
 It would be cool to build up a web of trust and software development sharing, which escapes both limitations. Also, companies which are bound by ethical values would profit by sharing resources, staying on the safe ground in how they are used.
 
-##deutsch
+## deutsch
 
 Nicht viele können sich Closed-source & bezahlte Werkzeuge leisten, manche von extrem gute Qualität und Wert.
 
