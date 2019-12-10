@@ -1,6 +1,6 @@
 # Workforce of Ethical Access to Tools and Technology (de/en)
 
-Fr 18:00-19:15, Universitätsbibliothek Leipzig  
+Usually Thursdays afternoon/evening @ Universitätsbibliothek Leipzig.
 [meetup](https://www.meetup.com/Workforce-of-Ethical-Access-to-Tools-and-Technology/)
 
 ## english
@@ -15,6 +15,6 @@ It would be cool to build up a web of trust and software development sharing, wh
 
 Nicht viele können sich Closed-source & bezahlte Werkzeuge leisten, manche von extrem gute Qualität und Wert.
 
-Open-source & freie Werkzeuge sind nett, aber ethisch fragwürdig, da die jeder zum egal welchem Zweck nutzen kann.
+Open-source & freie Werkzeuge sind nett, aber ethisch fragwürdig, da die jeder, zum egal welchem Zweck, nutzen kann.
 
 Es wäre cool ein Netzwerk vom Vertrauen und Software Development Sharing aufzubauen, welches beiden Limitationen entflieht. Und Firmen, welche durch ihre ethische Ideale gebunden sind, würden von einer Bereitstellung solcher Resourcen profitieren, im reinen Gewissen, wo deren Arbeit hinfließt.
